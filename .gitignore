@@ -1,0 +1,3 @@
+#ignore Jetbrains editor files
+.idea/*
+
